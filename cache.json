@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "2uE3z1PKT9EERK1pkxBt1pzmtmJXdFqYM2pMzwHUVHTy",
+    "candyMachineCreator": "2RYLtJmGisaspPMJbKLQrYdPMP3v7WHgpMrVC2caz2Kf",
+    "collectionMint": "Ch6ZdYUEv7ZimqS754snXixqZRsVL7Bw6Bwj1Gxu43uh"
+  },
+  "items": {
+    "-1": {
+      "name": "The Smurfs",
+      "image_hash": "3656a51b4f847a95766c94d6d8108163fd05336d37156fd316044f6a07196611",
+      "image_link": "https://arweave.net/s5CjLkgOAkOJTwJ6odU7VdjPaNLiVSq0xMa3iqWgSWQ?ext=jpg",
+      "metadata_hash": "a133edec252471c1e4be1e969196842c673a2fa9e20c0c2b8a721aed9ea98af8",
+      "metadata_link": "https://arweave.net/kUoYhYavOpk4EFnz_M789LykK1rH0VQolsqJB7hYDdk",
+      "onChain": true
+    },
+    "0": {
+      "name": "Smurfette Smurf",
+      "image_hash": "6350988013b51274e52a53f28ecc3899d15f8c494f9880abc23ba926640b97e0",
+      "image_link": "https://arweave.net/KjTdQiNHkqzS6LGQf3bWgNTomfz9LcAZH3hupQXW7-Q?ext=jpg",
+      "metadata_hash": "040261dc1f1bd8fb87637c8f80c84c7cede574d2ab51bbd390a66e9ffaaeddd9",
+      "metadata_link": "https://arweave.net/CxLLndCOrjaLT6JI-70JrFuR1zF6orcpRsKxCrW1ErE",
+      "onChain": true
+    },
+    "1": {
+      "name": "Vanity Smurf",
+      "image_hash": "a9a4588ca5a6fbef20da2cd8486267533beb11e31dcc8788128ba557cfe19af2",
+      "image_link": "https://arweave.net/B_U8SpTKLRIo6oL_IfqoyRt-iGjCeQNtYz7ASMr0vno?ext=jpg",
+      "metadata_hash": "f81bd8ac10964b961067f05d567447f48b1e7829e89197309ac4403c641e4f6c",
+      "metadata_link": "https://arweave.net/zPVzOmEVDnSaasvmKFgk5RR0oPmfd8JUP41SNVXLUYc",
+      "onChain": true
+    },
+    "2": {
+      "name": "Hefty Smurf",
+      "image_hash": "fa1935390317e57b38178246c653ff9772c138bf7917426a5e5e49f188a81871",
+      "image_link": "https://arweave.net/dmXIs0SRvRNmpsJ_ySrgREZ3R7lH_jm15rRDGHFMNZ0?ext=jpg",
+      "metadata_hash": "5f91adfc7b800ccfa1bfceebadbf2d41edc10bfb23a548a42a19ad65afa433ac",
+      "metadata_link": "https://arweave.net/ny1DukhkXdFPCegvI5k8KnAK-ya3YXXuNhmpT7WzANE",
+      "onChain": true
+    },
+    "3": {
+      "name": "Papa Smurf",
+      "image_hash": "e556f42e71dc5b7390a1553bb6f613dc64439ec4989739527cf45d56d62a5c8a",
+      "image_link": "https://arweave.net/V0t_AM691WYiQQw2BteCBOUWXaSuPAtNB2YaZIJpx88?ext=jpg",
+      "metadata_hash": "dc4eb514fae2c88885cfbd0ef42243206016eefbfed698d9d0bc060968acbd0e",
+      "metadata_link": "https://arweave.net/07k3b0ouyrqSGdg0DnDe5Jl2RI3loYmXEG02KTpJvUA",
+      "onChain": true
+    },
+    "4": {
+      "name": "Painter Smurf",
+      "image_hash": "752ec050ee785f7d2058a248b83fbd9cff76b705aa58e845d60aef8c249d644c",
+      "image_link": "https://arweave.net/oNn5aycu5eZrgPhlQ2K0emCbudAHK6amoHgdYFqQs58?ext=jpg",
+      "metadata_hash": "32a8982f9c1da92127b881a88083a06a577bfe8068b5c6678f9e6b520a6b210b",
+      "metadata_link": "https://arweave.net/n_WA3uHY2sYLGuwFznTE1bSdblY_OHUaRizoKVC2MK8",
+      "onChain": true
+    },
+    "5": {
+      "name": "Handy Smurf",
+      "image_hash": "e8196402b95303257b334913066b0156b1f55283f06b8f07899a9e41f10d747f",
+      "image_link": "https://arweave.net/WCuG4rfbpy-5mNE2CP7GfTtYm10UfyxDCvSHEkZFB-M?ext=jpg",
+      "metadata_hash": "e7fa8f41a3200380f6b8022f647bc40b2a3e8d51ca35d1403847316b0808af78",
+      "metadata_link": "https://arweave.net/2pdzjhWsoJi371lEb_o92b8RQb9--rX7Nnza9LOsWhY",
+      "onChain": true
+    },
+    "6": {
+      "name": "Jokey Smurf",
+      "image_hash": "d6d4d5a54d76ac3da128c2f5a7e74ce36c0a4e342ad42be3aa0c976598fdc4fc",
+      "image_link": "https://arweave.net/v5Sy2_NBNBukcg6nbvuGPv5tkpZJJuZxN2wTbV0ljO8?ext=jpg",
+      "metadata_hash": "5ff2bc27f1d32fd8b94c70616eeedcdb78978d9e043d2907a6f0e1c408d42835",
+      "metadata_link": "https://arweave.net/mAeLASJafnXaUkUteZNvtyZLeMCbvCAoFjvF_Hctg2E",
+      "onChain": true
+    },
+    "7": {
+      "name": "Harmony Smurf",
+      "image_hash": "ccd8aafcdb9a9b554b8e7de054425f7e493bd59493d6005a96ba053c67c18422",
+      "image_link": "https://arweave.net/y8__EOzGIQbODR312dkGtRUQ-Ri1DG0fCAV4NKZ5eA8?ext=jpg",
+      "metadata_hash": "0f75574a99e40793d8e0d14c05f4a1dc7bcb2c1024d5bd062495c78d89b20211",
+      "metadata_link": "https://arweave.net/mZ8WdNRA_cciRAnuRxCBVsUK9nln-uGu2GsCNvqrTIs",
+      "onChain": true
+    },
+    "8": {
+      "name": "Chef Smurf",
+      "image_hash": "8625a29e230f5a69c03578e80e94b8f7eab91e6a95550809173c539644a20959",
+      "image_link": "https://arweave.net/eEj9muWvw2aA0QBvk9E1K32YhQRlG3qe4prYmDilwjs?ext=jpg",
+      "metadata_hash": "13f375838356140d70068ccb2b5f54b6a6fd149d08596ebac3ff175835b1c131",
+      "metadata_link": "https://arweave.net/656XpzazCJ1z-exgfx32tVUg2oaCQSdztPpShQ_ZBdM",
+      "onChain": true
+    },
+    "9": {
+      "name": "Brainy Smurf",
+      "image_hash": "0077a34def1b808002a96066824debd5e12195f37191689adf4ea0c27a7d35cd",
+      "image_link": "https://arweave.net/qL5BxWfLqqKJIeK9pkES825Il2cG-ChTHoBPOCsZLWQ?ext=jpg",
+      "metadata_hash": "67b6eb97758081ad76a23d39ae7966f267b0d80362ff0748c6a6a40897d935a3",
+      "metadata_link": "https://arweave.net/unoj8RPCbiP2T4xZWTr5j3pBqqrLaFbS5eSMPcCVUP4",
+      "onChain": true
+    }
+  }
+}
