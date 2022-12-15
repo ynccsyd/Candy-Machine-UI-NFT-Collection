@@ -10,7 +10,7 @@ yarn-error.log*
 .env
 .vscode
 **/.DS_Store
-wallet.json
 config.json
 cache.json
 sugar.log
+wallet.json
