@@ -15,7 +15,7 @@
 ```ruby
 npm install
 ```
-* Rename .env.example to .env and paste in your Candy Machine ID that you copied earlier. If you want to know how to find your Candy Machine ID, visit my repo [here](https://github.com/ynccsyd/Upload-NftCollection-Using-CandyMachine/edit/main/README.md).
+* Rename .env.example to .env and paste in your Candy Machine ID that you copied earlier. If you want to know how to find your Candy Machine ID, visit my repo [here](https://github.com/ynccsyd/Upload-NftCollection-Using-CandyMachine).
 ```ruby
 REACT_APP_CANDY_MACHINE_ID=<Write your Pubkey>
 REACT_APP_SOLANA_NETWORK=devnet
